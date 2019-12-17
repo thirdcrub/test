@@ -1,0 +1,30 @@
+body{
+    background-color: darkgray;
+}
+h1 {
+    color: blue;
+    margin-left: 40px;
+}
+h3 {
+    font-family: arial;
+    color: coral;
+}
+
+#output {
+    font-family: arial;
+    color: darkgreen;
+}
+.c1 {
+    font-family: arial;
+    color: darkred;
+}
+.c2 {
+    font-family: arial;
+    color: chartreuse;
+}
+.c3 {
+    font-family: arial;
+    color: coral;
+}
+
+
